@@ -33,3 +33,5 @@
 ![Jrmx21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jrmx21&show_icons=true&theme=radical)
 
 ![Jrmx21's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrmx21&layout=compact&theme=radical)
+
+![L](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
