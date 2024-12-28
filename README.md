@@ -36,6 +36,8 @@
 
 ![L](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## Contact Me 📫
+
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg)](https://www.linkedin.com/in/david-ruiz-peña-13a2b8263/)
+
 [![Blog](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blog/blog-original.svg)](https://www.tublog.com)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://github.com/Jrmx21)
