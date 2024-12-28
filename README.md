@@ -38,6 +38,6 @@
 
 ## Contact Me 📫
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg)](https://www.linkedin.com/in/david-ruiz-peña-13a2b8263/)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg){:width="30px" height="30px"}](https://www.linkedin.com/in/david-ruiz-peña-13a2b8263/)
 
-[![Blog](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blog/blog-original.svg)](https://www.tublog.com)
+[![Blog](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blog/blog-original.svg){:width="30px" height="30px"}](https://www.tublog.com)
